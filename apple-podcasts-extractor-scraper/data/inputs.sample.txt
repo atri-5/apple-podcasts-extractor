@@ -1,0 +1,3 @@
+# Sample input file for podcast scraping
+# Include one podcast URL per line
+https://podcasts.apple.com/us/podcast/ngobrol-sore-semaunya/id1526729635
